@@ -5,7 +5,7 @@
 <div class="prose mx-5 max-w-none py-6 dark:prose-invert">
   <slot />
   <div class="my-4 w-full bg-slate-500" style:height="1px" />
-  <nav class="flex flex-col gap-2">
+  <nav class="flex flex-col gap-3">
     <a href="/intro/logic">منطق انقلاب</a>
     <a href="/intro/joining-the-union">عضویت در اتحادیه</a>
     <a href="/intro/members">اعضای شورای هماهنگی</a>
