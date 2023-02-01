@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-  <title>اتحادیه انقلاب مهر</title>
+  <title>اتحادیه انقلاب مهر ایران</title>
 </svelte:head>
 
 <div class="mx-auto max-w-screen-md">
