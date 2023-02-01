@@ -6,7 +6,7 @@ const config = {
 
   theme: {
     fontFamily: {
-      sans: ['IRANSansX', 'sans-serif'],
+      sans: ['Vazirmatn', 'sans-serif'],
       serif: ['serif'],
     },
     extend: {
@@ -21,6 +21,7 @@ const config = {
       typography: {
         DEFAULT: {
           css: {
+            lineHeight: '1.625',
             h1: {
               fontWeight: 'bold',
               fontSize: '1.9em',
