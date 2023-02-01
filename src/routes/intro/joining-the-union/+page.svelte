@@ -49,5 +49,5 @@
 
 <p class="mt-4">
   حتما باید روی لینک با آدرس زیر کلیک کنید.
-  <span style:display="block" style:direction="ltr">join-the-union.pages.dev</span>
+  <span style:display="block" style:direction="ltr">etehad.pages.dev</span>
 </p>
