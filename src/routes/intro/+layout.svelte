@@ -1,4 +1,6 @@
-<h1 class="mt-6 text-center text-xl font-semibold">اتحادیه انقلاب ایران</h1>
+<a href="/">
+  <h1 class="mt-6 text-center text-xl font-semibold">اتحادیه انقلاب مهر</h1>
+</a>
 
 <div class="prose mx-5 max-w-none py-6 dark:prose-invert">
   <slot />
