@@ -1,5 +1,5 @@
 <a href="/">
-  <h1 class="mt-5 text-center text-xl font-semibold">اتحادیه انقلابِ مِهرِ ایران</h1>
+  <h1 class="mt-5 text-center text-xl font-semibold">اتحادیه مردم ایران</h1>
 </a>
 
 <div class="prose mx-5 max-w-none py-6 dark:prose-invert">
