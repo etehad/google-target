@@ -7,7 +7,7 @@
 
 <div class="flex items-center justify-center gap-1">
   <div>عبارت:</div>
-  <div class="my-4 rounded bg-slate-200 px-2 py-1 dark:bg-slate-800">"اتحادیه انقلاب ایران"</div>
+  <div class="my-4 rounded bg-slate-200 px-2 py-1 dark:bg-slate-800">"اتحادیه مردم ایران"</div>
 </div>
 
 <p>
