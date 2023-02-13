@@ -1,16 +1,14 @@
 <a href="/">
-  <h1 class="mt-5 text-center text-xl font-semibold">اتحادیه مردم ایران</h1>
+  <h1 class="mt-5 text-center text-xl font-semibold">اتحادیه انقلاب مردم</h1>
 </a>
 
 <div class="prose mx-5 max-w-none py-6 dark:prose-invert">
   <slot />
   <div class="my-4 w-full bg-slate-500" style:height="1px" />
   <nav class="flex flex-col gap-3">
-    <a href="/intro/logic">منطق انقلاب</a>
-    <a href="/intro/joining-the-union">عضویت در اتحادیه</a>
-    <a href="/intro/members">اعضای شورای هماهنگی</a>
-    <a href="/">ساختار کاری شورای هماهنگی</a>
-    <a href="/">عضویت در شورای هماهنگی</a>
+    <a href="/intro">مقدمه</a>
+    <a href="/intro/joining">عضویت در اتحادیه</a>
+    <a href="/intro/working-group">کارگروه انقلاب</a>
     <a href="/">بازگشت به صفحه اصلی</a>
   </nav>
 </div>
