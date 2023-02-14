@@ -38,11 +38,11 @@
       "اتحادیه انقلاب مردم"
     </div>
   </div>
-  <div class="text-sm text-slate-300 dark:text-slate-600">
+  <div class="text-sm text-slate-400 dark:text-slate-600">
     {#if showCopied}
       (کپی شد)
     {:else}
-      (برای کپی کلیک روی عبارت رنگی کلیک کنید)
+      (برای کپی روی عبارت رنگی کلیک کنید)
     {/if}
   </div>
 </div>
